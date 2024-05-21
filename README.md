@@ -1,4 +1,4 @@
-![NOAA NWS API](images/noaa-nws-api.png "NOAA NWS API")
+![NOAA NWS API](images/current_conditions_by_ip.gif "current_conditions_by_ip.py")
 
 # NOAA-NWS-API Scripts Repository
 
