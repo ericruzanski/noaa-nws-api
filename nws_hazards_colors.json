@@ -1,0 +1,870 @@
+[
+    {
+        "NWS Hazard / Weather Event": "Tsunami Warning",
+        "Priority": "1",
+        "Color Name": "Tomato",
+        "RGB Color": "253 99 71",
+        "Hex Code": "FD6347"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tornado Warning",
+        "Priority": "2",
+        "Color Name": "Red",
+        "RGB Color": "255 0 0",
+        "Hex Code": "FF0000"
+    },
+    {
+        "NWS Hazard / Weather Event": "Extreme Wind Warning",
+        "Priority": "3",
+        "Color Name": "Darkorange",
+        "RGB Color": "255 140 0",
+        "Hex Code": "FF8C00"
+    },
+    {
+        "NWS Hazard / Weather Event": "Severe Thunderstorm Warning",
+        "Priority": "4",
+        "Color Name": "Orange",
+        "RGB Color": "255 165 0",
+        "Hex Code": "FFA500"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flash Flood Warning",
+        "Priority": "5",
+        "Color Name": "Darkred",
+        "RGB Color": "139 0 0",
+        "Hex Code": "8B0000"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flash Flood Statement",
+        "Priority": "6",
+        "Color Name": "Darkred",
+        "RGB Color": "139 0 0",
+        "Hex Code": "8B0000"
+    },
+    {
+        "NWS Hazard / Weather Event": "Severe Weather Statement",
+        "Priority": "7",
+        "Color Name": "Aqua",
+        "RGB Color": "0 255 255",
+        "Hex Code": "00FFFF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Shelter In Place Warning",
+        "Priority": "8",
+        "Color Name": "Salmon",
+        "RGB Color": "250 128 114",
+        "Hex Code": "FA8072"
+    },
+    {
+        "NWS Hazard / Weather Event": "Evacuation Immediate",
+        "Priority": "9",
+        "Color Name": "Chartreuse",
+        "RGB Color": "127 255 0",
+        "Hex Code": "7FFF00"
+    },
+    {
+        "NWS Hazard / Weather Event": "Civil Danger Warning",
+        "Priority": "10",
+        "Color Name": "Lightpink",
+        "RGB Color": "255 182 193",
+        "Hex Code": "FFB6C1"
+    },
+    {
+        "NWS Hazard / Weather Event": "Nuclear Power Plant Warning",
+        "Priority": "11",
+        "Color Name": "Indigo",
+        "RGB Color": "75 0 130",
+        "Hex Code": "4B0082"
+    },
+    {
+        "NWS Hazard / Weather Event": "Radiological Hazard Warning",
+        "Priority": "12",
+        "Color Name": "Indigo",
+        "RGB Color": "75 0 130",
+        "Hex Code": "4B0082"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hazardous Materials Warning",
+        "Priority": "13",
+        "Color Name": "Indigo",
+        "RGB Color": "75 0 130",
+        "Hex Code": "4B0082"
+    },
+    {
+        "NWS Hazard / Weather Event": "Fire Warning",
+        "Priority": "14",
+        "Color Name": "Sienna",
+        "RGB Color": "160 82 45",
+        "Hex Code": "A0522D"
+    },
+    {
+        "NWS Hazard / Weather Event": "Civil Emergency Message",
+        "Priority": "15",
+        "Color Name": "Lightpink",
+        "RGB Color": "255 182 193",
+        "Hex Code": "FFB6C1"
+    },
+    {
+        "NWS Hazard / Weather Event": "Law Enforcement Warning",
+        "Priority": "16",
+        "Color Name": "Silver",
+        "RGB Color": "192 192 192",
+        "Hex Code": "C0C0C0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Storm Surge Warning",
+        "Priority": "17",
+        "Color Name": "Darkpurple",
+        "RGB Color": "181 36 247",
+        "Hex Code": "B524F7"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hurricane Force Wind Warning",
+        "Priority": "18",
+        "Color Name": "Westernred",
+        "RGB Color": "205 92 92",
+        "Hex Code": "CD5C5C"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hurricane Warning",
+        "Priority": "19",
+        "Color Name": "Crimson",
+        "RGB Color": "220 20 60",
+        "Hex Code": "DC143C"
+    },
+    {
+        "NWS Hazard / Weather Event": "Typhoon Warning",
+        "Priority": "20",
+        "Color Name": "Crimson",
+        "RGB Color": "220 20 60",
+        "Hex Code": "DC143C"
+    },
+    {
+        "NWS Hazard / Weather Event": "Special Marine Warning",
+        "Priority": "21",
+        "Color Name": "Orange",
+        "RGB Color": "255 165 0",
+        "Hex Code": "FFA500"
+    },
+    {
+        "NWS Hazard / Weather Event": "Blizzard Warning",
+        "Priority": "22",
+        "Color Name": "Orangered",
+        "RGB Color": "255 69 0",
+        "Hex Code": "FF4500"
+    },
+    {
+        "NWS Hazard / Weather Event": "Snow Squall Warning",
+        "Priority": "23",
+        "Color Name": "Mediumvioletred",
+        "RGB Color": "199 21 133",
+        "Hex Code": "C71585"
+    },
+    {
+        "NWS Hazard / Weather Event": "Ice Storm Warning",
+        "Priority": "24",
+        "Color Name": "Darkmagenta",
+        "RGB Color": "139 0 139",
+        "Hex Code": "8B008B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Winter Storm Warning",
+        "Priority": "25",
+        "Color Name": "Hotpink",
+        "RGB Color": "255 105 180",
+        "Hex Code": "FF69B4"
+    },
+    {
+        "NWS Hazard / Weather Event": "High Wind Warning",
+        "Priority": "26",
+        "Color Name": "Goldenrod",
+        "RGB Color": "218 165 32",
+        "Hex Code": "DAA520"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tropical Storm Warning",
+        "Priority": "27",
+        "Color Name": "Firebrick",
+        "RGB Color": "178 34 34",
+        "Hex Code": "B22222"
+    },
+    {
+        "NWS Hazard / Weather Event": "Storm Warning",
+        "Priority": "28",
+        "Color Name": "Darkviolet",
+        "RGB Color": "148 0 211",
+        "Hex Code": "9400D3"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tsunami Advisory",
+        "Priority": "29",
+        "Color Name": "Chocolate",
+        "RGB Color": "210 105 30",
+        "Hex Code": "D2691E"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tsunami Watch",
+        "Priority": "30",
+        "Color Name": "Fushsia",
+        "RGB Color": "255 0 255",
+        "Hex Code": "FF00FF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Avalanche Warning",
+        "Priority": "31",
+        "Color Name": "Dodgerblue",
+        "RGB Color": "30 144 255",
+        "Hex Code": "1E90FF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Earthquake Warning",
+        "Priority": "32",
+        "Color Name": "Saddlebrown",
+        "RGB Color": "139 69 19",
+        "Hex Code": "8B4513"
+    },
+    {
+        "NWS Hazard / Weather Event": "Volcano Warning",
+        "Priority": "33",
+        "Color Name": "darkslategray",
+        "RGB Color": "47 79 79",
+        "Hex Code": "2F4F4F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Ashfall Warning",
+        "Priority": "34",
+        "Color Name": "Darkgray",
+        "RGB Color": "169 169 169",
+        "Hex Code": "A9A9A9"
+    },
+    {
+        "NWS Hazard / Weather Event": "Coastal Flood Warning",
+        "Priority": "35",
+        "Color Name": "Forestgreen",
+        "RGB Color": "34 139 34",
+        "Hex Code": "228B22"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lakeshore Flood Warning",
+        "Priority": "36",
+        "Color Name": "Forestgreen",
+        "RGB Color": "34 139 34",
+        "Hex Code": "228B22"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flood Warning",
+        "Priority": "37",
+        "Color Name": "Lime",
+        "RGB Color": "0 255 0",
+        "Hex Code": "00FF00"
+    },
+    {
+        "NWS Hazard / Weather Event": "High Surf Warning",
+        "Priority": "38",
+        "Color Name": "Forestgreen",
+        "RGB Color": "34 139 34",
+        "Hex Code": "228B22"
+    },
+    {
+        "NWS Hazard / Weather Event": "Dust Storm Warning",
+        "Priority": "39",
+        "Color Name": "Bisque",
+        "RGB Color": "255 228 196",
+        "Hex Code": "FFE4C4"
+    },
+    {
+        "NWS Hazard / Weather Event": "Blowing Dust Warning",
+        "Priority": "40",
+        "Color Name": "Bisque",
+        "RGB Color": "255 228 196",
+        "Hex Code": "FFE4C4"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lake Effect Snow Warning",
+        "Priority": "41",
+        "Color Name": "Darkcyan",
+        "RGB Color": "0 139 139",
+        "Hex Code": "008B8B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Excessive Heat Warning",
+        "Priority": "42",
+        "Color Name": "Mediumvioletred",
+        "RGB Color": "199 21 133",
+        "Hex Code": "C71585"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tornado Watch",
+        "Priority": "43",
+        "Color Name": "Yellow",
+        "RGB Color": "255 255 0",
+        "Hex Code": "FFFF00"
+    },
+    {
+        "NWS Hazard / Weather Event": "Severe Thunderstorm Watch",
+        "Priority": "44",
+        "Color Name": "Palevioletred",
+        "RGB Color": "219 112 147",
+        "Hex Code": "DB7093"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flash Flood Watch",
+        "Priority": "45",
+        "Color Name": "Seagreen",
+        "RGB Color": "46 139 87",
+        "Hex Code": "2E8B57"
+    },
+    {
+        "NWS Hazard / Weather Event": "Gale Warning",
+        "Priority": "46",
+        "Color Name": "Plum",
+        "RGB Color": "221 160 221",
+        "Hex Code": "DDA0DD"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flood Statement",
+        "Priority": "47",
+        "Color Name": "Lime",
+        "RGB Color": "0 255 0",
+        "Hex Code": "00FF00"
+    },
+    {
+        "NWS Hazard / Weather Event": "Wind Chill Warning",
+        "Priority": "48",
+        "Color Name": "Lightsteelblue",
+        "RGB Color": "176 196 222",
+        "Hex Code": "B0C4DE"
+    },
+    {
+        "NWS Hazard / Weather Event": "Extreme Cold Warning",
+        "Priority": "49",
+        "Color Name": "Blue",
+        "RGB Color": "0 0 255",
+        "Hex Code": "0000FF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hard Freeze Warning",
+        "Priority": "50",
+        "Color Name": "Darkviolet",
+        "RGB Color": "148 0 211",
+        "Hex Code": "9400D3"
+    },
+    {
+        "NWS Hazard / Weather Event": "Freeze Warning",
+        "Priority": "51",
+        "Color Name": "Darkslateblue",
+        "RGB Color": "72 61 139",
+        "Hex Code": "483D8B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Red Flag Warning",
+        "Priority": "52",
+        "Color Name": "Deeppink",
+        "RGB Color": "255 20 147",
+        "Hex Code": "FF1493"
+    },
+    {
+        "NWS Hazard / Weather Event": "Storm Surge Watch",
+        "Priority": "53",
+        "Color Name": "Lightpurple",
+        "RGB Color": "219 127 247",
+        "Hex Code": "DB7FF7"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hurricane Watch",
+        "Priority": "54",
+        "Color Name": "Magenta",
+        "RGB Color": "255 0 255",
+        "Hex Code": "FF00FF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hurricane Force Wind Watch",
+        "Priority": "55",
+        "Color Name": "Darkorchid",
+        "RGB Color": "153 50 204",
+        "Hex Code": "9932CC"
+    },
+    {
+        "NWS Hazard / Weather Event": "Typhoon Watch",
+        "Priority": "56",
+        "Color Name": "Magenta",
+        "RGB Color": "255 0 255",
+        "Hex Code": "FF00FF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tropical Storm Watch",
+        "Priority": "57",
+        "Color Name": "Lightcoral",
+        "RGB Color": "240 128 128",
+        "Hex Code": "F08080"
+    },
+    {
+        "NWS Hazard / Weather Event": "Storm Watch",
+        "Priority": "58",
+        "Color Name": "Moccasin",
+        "RGB Color": "255 228 181",
+        "Hex Code": "FFE4B5"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hurricane Local Statement",
+        "Priority": "59",
+        "Color Name": "Moccasin",
+        "RGB Color": "255 228 181",
+        "Hex Code": "FFE4B5"
+    },
+    {
+        "NWS Hazard / Weather Event": "Typhoon Local Statement",
+        "Priority": "60",
+        "Color Name": "Moccasin",
+        "RGB Color": "255 228 181",
+        "Hex Code": "FFE4B5"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tropical Storm Local Statement",
+        "Priority": "61",
+        "Color Name": "Moccasin",
+        "RGB Color": "255 228 181",
+        "Hex Code": "FFE4B5"
+    },
+    {
+        "NWS Hazard / Weather Event": "Tropical Depression Local Statement",
+        "Priority": "62",
+        "Color Name": "Moccasin",
+        "RGB Color": "255 228 181",
+        "Hex Code": "FFE4B5"
+    },
+    {
+        "NWS Hazard / Weather Event": "Avalanche Advisory",
+        "Priority": "63",
+        "Color Name": "Peru",
+        "RGB Color": "205 133 63",
+        "Hex Code": "CD853F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Winter Weather Advisory",
+        "Priority": "64",
+        "Color Name": "Mediumslateblue",
+        "RGB Color": "123 104 238",
+        "Hex Code": "7B68EE"
+    },
+    {
+        "NWS Hazard / Weather Event": "Wind Chill Advisory",
+        "Priority": "65",
+        "Color Name": "Paleturquoise",
+        "RGB Color": "175 238 238",
+        "Hex Code": "AFEEEE"
+    },
+    {
+        "NWS Hazard / Weather Event": "Heat Advisory",
+        "Priority": "66",
+        "Color Name": "Coral",
+        "RGB Color": "255 127 80",
+        "Hex Code": "FF7F50"
+    },
+    {
+        "NWS Hazard / Weather Event": "Urban and Small Stream Flood Advisory",
+        "Priority": "67",
+        "Color Name": "Springgreen",
+        "RGB Color": "0 255 127",
+        "Hex Code": "00FF7F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Small Stream Flood Advisory",
+        "Priority": "68",
+        "Color Name": "Springgreen",
+        "RGB Color": "0 255 127",
+        "Hex Code": "00FF7F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Arroyo and Small Stream Flood Advisory",
+        "Priority": "69",
+        "Color Name": "Springgreen",
+        "RGB Color": "0 255 127",
+        "Hex Code": "00FF7F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flood Advisory",
+        "Priority": "70",
+        "Color Name": "Springgreen",
+        "RGB Color": "0 255 127",
+        "Hex Code": "00FF7F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hydrologic Advisory",
+        "Priority": "71",
+        "Color Name": "Springgreen",
+        "RGB Color": "0 255 127",
+        "Hex Code": "00FF7F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lakeshore Flood Advisory",
+        "Priority": "72",
+        "Color Name": "Lawngreen",
+        "RGB Color": "124 252 0",
+        "Hex Code": "7CFC00"
+    },
+    {
+        "NWS Hazard / Weather Event": "Coastal Flood Advisory",
+        "Priority": "73",
+        "Color Name": "Lawngreen",
+        "RGB Color": "124 252 0",
+        "Hex Code": "7CFC00"
+    },
+    {
+        "NWS Hazard / Weather Event": "High Surf Advisory",
+        "Priority": "74",
+        "Color Name": "Mediumorchid",
+        "RGB Color": "186 85 211",
+        "Hex Code": "BA55D3"
+    },
+    {
+        "NWS Hazard / Weather Event": "Heavy Freezing Spray Warning",
+        "Priority": "75",
+        "Color Name": "Deepskyblue",
+        "RGB Color": "0 191 255",
+        "Hex Code": "00BFFF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Dense Fog Advisory",
+        "Priority": "76",
+        "Color Name": "Slategray",
+        "RGB Color": "112 128 144",
+        "Hex Code": "708090"
+    },
+    {
+        "NWS Hazard / Weather Event": "Dense Smoke Advisory",
+        "Priority": "77",
+        "Color Name": "Khaki",
+        "RGB Color": "240 230 140",
+        "Hex Code": "F0E68C"
+    },
+    {
+        "NWS Hazard / Weather Event": "Small Craft Advisory",
+        "Priority": "78",
+        "Color Name": "Thistle",
+        "RGB Color": "216 191 216",
+        "Hex Code": "D8BFD8"
+    },
+    {
+        "NWS Hazard / Weather Event": "Brisk Wind Advisory",
+        "Priority": "79",
+        "Color Name": "Thistle",
+        "RGB Color": "216 191 216",
+        "Hex Code": "D8BFD8"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hazardous Seas Warning",
+        "Priority": "80",
+        "Color Name": "Thistle",
+        "RGB Color": "216 191 216",
+        "Hex Code": "D8BFD8"
+    },
+    {
+        "NWS Hazard / Weather Event": "Dust Advisory",
+        "Priority": "81",
+        "Color Name": "Darkkhaki",
+        "RGB Color": "189 183 107",
+        "Hex Code": "BDB76B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Blowing Dust Advisory",
+        "Priority": "82",
+        "Color Name": "Darkkhaki",
+        "RGB Color": "189 183 107",
+        "Hex Code": "BDB76B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lake Wind Advisory",
+        "Priority": "83",
+        "Color Name": "Tan",
+        "RGB Color": "210 180 140",
+        "Hex Code": "D2B48C"
+    },
+    {
+        "NWS Hazard / Weather Event": "Wind Advisory",
+        "Priority": "84",
+        "Color Name": "Tan",
+        "RGB Color": "210 180 140",
+        "Hex Code": "D2B48C"
+    },
+    {
+        "NWS Hazard / Weather Event": "Frost Advisory",
+        "Priority": "85",
+        "Color Name": "Cornflowerblue",
+        "RGB Color": "100 149 237",
+        "Hex Code": "6495ED"
+    },
+    {
+        "NWS Hazard / Weather Event": "Ashfall Advisory",
+        "Priority": "86",
+        "Color Name": "Dimgray",
+        "RGB Color": "105 105 105",
+        "Hex Code": "696969"
+    },
+    {
+        "NWS Hazard / Weather Event": "Freezing Fog Advisory",
+        "Priority": "87",
+        "Color Name": "Teal",
+        "RGB Color": "0 128 128",
+        "Hex Code": "008080"
+    },
+    {
+        "NWS Hazard / Weather Event": "Freezing Spray Advisory",
+        "Priority": "88",
+        "Color Name": "Deepskyblue",
+        "RGB Color": "0 191 255",
+        "Hex Code": "00BFFF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Low Water Advisory",
+        "Priority": "89",
+        "Color Name": "Brown",
+        "RGB Color": "165 42 42",
+        "Hex Code": "A52A2A"
+    },
+    {
+        "NWS Hazard / Weather Event": "Local Area Emergency",
+        "Priority": "90",
+        "Color Name": "Silver",
+        "RGB Color": "192 192 192",
+        "Hex Code": "C0C0C0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Avalanche Watch",
+        "Priority": "91",
+        "Color Name": "Sandybrown",
+        "RGB Color": "244 164 96",
+        "Hex Code": "F4A460"
+    },
+    {
+        "NWS Hazard / Weather Event": "Blizzard Watch",
+        "Priority": "92",
+        "Color Name": "Greenyellow",
+        "RGB Color": "173 255 47",
+        "Hex Code": "ADFF2F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Rip Current Statement",
+        "Priority": "93",
+        "Color Name": "Turquoise",
+        "RGB Color": "64 224 208",
+        "Hex Code": "40E0D0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Beach Hazards Statement",
+        "Priority": "94",
+        "Color Name": "Turquoise",
+        "RGB Color": "64 224 208",
+        "Hex Code": "40E0D0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Gale Watch",
+        "Priority": "95",
+        "Color Name": "Pink",
+        "RGB Color": "255 192 203",
+        "Hex Code": "FFC0CB"
+    },
+    {
+        "NWS Hazard / Weather Event": "Winter Storm Watch",
+        "Priority": "96",
+        "Color Name": "Steelblue",
+        "RGB Color": "70 130 180",
+        "Hex Code": "4682B4"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hazardous Seas Watch",
+        "Priority": "97",
+        "Color Name": "Darkslateblue",
+        "RGB Color": "72 61 139",
+        "Hex Code": "483D8B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Heavy Freezing Spray Watch",
+        "Priority": "98",
+        "Color Name": "Rosybrown",
+        "RGB Color": "188 143 143",
+        "Hex Code": "BC8F8F"
+    },
+    {
+        "NWS Hazard / Weather Event": "Coastal Flood Watch",
+        "Priority": "99",
+        "Color Name": "Mediumaquamarine",
+        "RGB Color": "102 205 170",
+        "Hex Code": "66CDAA"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lakeshore Flood Watch",
+        "Priority": "100",
+        "Color Name": "Mediumaquamarine",
+        "RGB Color": "102 205 170",
+        "Hex Code": "66CDAA"
+    },
+    {
+        "NWS Hazard / Weather Event": "Flood Watch",
+        "Priority": "101",
+        "Color Name": "Seagreen",
+        "RGB Color": "46 139 87",
+        "Hex Code": "2E8B57"
+    },
+    {
+        "NWS Hazard / Weather Event": "High Wind Watch",
+        "Priority": "102",
+        "Color Name": "Darkgoldenrod",
+        "RGB Color": "184 134 11",
+        "Hex Code": "B8860B"
+    },
+    {
+        "NWS Hazard / Weather Event": "Excessive Heat Watch",
+        "Priority": "103",
+        "Color Name": "Maroon",
+        "RGB Color": "128 0 0",
+        "Hex Code": "800000"
+    },
+    {
+        "NWS Hazard / Weather Event": "Extreme Cold Watch",
+        "Priority": "104",
+        "Color Name": "Blue",
+        "RGB Color": "0 0 255",
+        "Hex Code": "0000FF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Wind Chill Watch",
+        "Priority": "105",
+        "Color Name": "Cadetblue",
+        "RGB Color": "95 158 160",
+        "Hex Code": "5F9EA0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lake Effect Snow Watch",
+        "Priority": "106",
+        "Color Name": "Lightskyblue",
+        "RGB Color": "135 206 250",
+        "Hex Code": "87CEFA"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hard Freeze Watch",
+        "Priority": "107",
+        "Color Name": "Royalblue",
+        "RGB Color": "65 105 225",
+        "Hex Code": "4169E1"
+    },
+    {
+        "NWS Hazard / Weather Event": "Freeze Watch",
+        "Priority": "108",
+        "Color Name": "Cyan",
+        "RGB Color": "0 255 255",
+        "Hex Code": "00FFFF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Fire Weather Watch",
+        "Priority": "109",
+        "Color Name": "Navajowhite",
+        "RGB Color": "255 222 173",
+        "Hex Code": "FFDEAD"
+    },
+    {
+        "NWS Hazard / Weather Event": "Extreme Fire Danger",
+        "Priority": "110",
+        "Color Name": "Darksalmon",
+        "RGB Color": "233 150 122",
+        "Hex Code": "E9967A"
+    },
+    {
+        "NWS Hazard / Weather Event": "911 Telephone Outage",
+        "Priority": "111",
+        "Color Name": "Silver",
+        "RGB Color": "192 192 192",
+        "Hex Code": "C0C0C0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Coastal Flood Statement",
+        "Priority": "112",
+        "Color Name": "Olivedrab",
+        "RGB Color": "107 142 35",
+        "Hex Code": "6B8E23"
+    },
+    {
+        "NWS Hazard / Weather Event": "Lakeshore Flood Statement",
+        "Priority": "113",
+        "Color Name": "Olivedrab",
+        "RGB Color": "107 142 35",
+        "Hex Code": "6B8E23"
+    },
+    {
+        "NWS Hazard / Weather Event": "Special Weather Statement",
+        "Priority": "114",
+        "Color Name": "Moccasin",
+        "RGB Color": "255 228 181",
+        "Hex Code": "FFE4B5"
+    },
+    {
+        "NWS Hazard / Weather Event": "Marine Weather Statement",
+        "Priority": "115",
+        "Color Name": "Peachpuff",
+        "RGB Color": "255 239 213",
+        "Hex Code": "FFDAB9"
+    },
+    {
+        "NWS Hazard / Weather Event": "Air Quality Alert",
+        "Priority": "116",
+        "Color Name": "Gray",
+        "RGB Color": "128 128 128",
+        "Hex Code": "808080"
+    },
+    {
+        "NWS Hazard / Weather Event": "Air Stagnation Advisory",
+        "Priority": "117",
+        "Color Name": "Gray",
+        "RGB Color": "128 128 128",
+        "Hex Code": "808080"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hazardous Weather Outlook",
+        "Priority": "118",
+        "Color Name": "Palegoldenrod",
+        "RGB Color": "238 232 170",
+        "Hex Code": "EEE8AA"
+    },
+    {
+        "NWS Hazard / Weather Event": "Hydrologic Outlook",
+        "Priority": "119",
+        "Color Name": "Lightgreen",
+        "RGB Color": "144 238 144",
+        "Hex Code": "90EE90"
+    },
+    {
+        "NWS Hazard / Weather Event": "Short Term Forecast",
+        "Priority": "120",
+        "Color Name": "Palegreen",
+        "RGB Color": "152 251 152",
+        "Hex Code": "98FB98"
+    },
+    {
+        "NWS Hazard / Weather Event": "Administrative Message",
+        "Priority": "121",
+        "Color Name": "Silver",
+        "RGB Color": "192 192 192",
+        "Hex Code": "C0C0C0"
+    },
+    {
+        "NWS Hazard / Weather Event": "Test",
+        "Priority": "122",
+        "Color Name": "Azure",
+        "RGB Color": "240 255 255",
+        "Hex Code": "F0FFFF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Child Abduction Emergency",
+        "Priority": "123",
+        "Color Name": "Transparent",
+        "RGB Color": "255 255 255",
+        "Hex Code": "FFFFFF"
+    },
+    {
+        "NWS Hazard / Weather Event": "Blue Alert",
+        "Priority": "124",
+        "Color Name": "Transparent",
+        "RGB Color": "255 255 255",
+        "Hex Code": "FFFFFF"
+    }
+]
