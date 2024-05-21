@@ -1,4 +1,4 @@
-![NOAA NWS API](noaa-nws-api.png "NOAA NWS API")
+![NOAA NWS API](images/noaa-nws-api.png "NOAA NWS API")
 
 # NOAA-NWS-API Scripts Repository
 
