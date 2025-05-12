@@ -1,6 +1,6 @@
 ![NOAA NWS API](images/current_conditions_by_ip.gif "current_conditions_by_ip.py")
 
-# NOAA-NWS-API Scripts Repository
+# NOAA-NWS-API
 
 ## Overview
 This repository is a collection of scripts that interact with the National Weather Service (NWS) API or other NWS products. The NWS provides a comprehensive suite of weather data services, which are freely accessible through their API. This collection aims to demonstrate and facilitate various ways these services can be utilized for weather-related data gathering and processing.
